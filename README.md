@@ -37,6 +37,13 @@ Frontend kayo: actual HTML/CSS, responsive layouts and needed JavaScript.
 
 # Project Structure - palook na lang sa gilid ng bawat folders if pages ba or no
 
+<img width="501" height="472" alt="{58DEBC8F-3F32-4C53-8278-71F8DB75649A}" src="https://github.com/user-attachments/assets/4d0fef25-c040-4be3-b792-7b18d712e3a2" />
+<img width="513" height="504" alt="{216D831F-E65F-4A70-A359-F066D5BFC5B6}" src="https://github.com/user-attachments/assets/8921e11f-9669-488b-a095-8227f91fc232" />
+<img width="589" height="291" alt="{DFA73006-C47C-42C3-9C85-38D62CF08887}" src="https://github.com/user-attachments/assets/a7c09c8d-c56c-4139-ab77-e14b994b93ba" />
+
+
+
+
 wellness-spa/                PAGES
 ├── index.php                  
 ├── gallery.php
