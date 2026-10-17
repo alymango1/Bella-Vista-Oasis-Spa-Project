@@ -35,11 +35,80 @@ Shared: Shared buttons, inputs, tables and status styling.
 Ako sa PHP/backend, database, authentication, booking rules and integration. 
 Frontend kayo: actual HTML/CSS, responsive layouts and needed JavaScript.
 
+# Project Structure - palook na lang sa gilid ng bawat folders if pages ba or no
+
+wellness-spa/                PAGES
+├── index.php                  
+├── gallery.php
+├── services.php
+├── terms.php
+│
+├── booking/                   Customer booking PAGES
+│   ├── health.php
+│   ├── details.php
+│   ├── review.php
+│   ├── confirmation.php
+│   └── manage.php
+│
+├── admin/                     PAGES for spa staff
+│   ├── login.php
+│   ├── dashboard.php
+│   ├── calendar.php
+│   ├── appointments.php
+│   ├── therapists.php
+│   ├── rooms.php
+│   ├── reports.php
+│   └── settings.php
+│
+├── shared/                      Code reused across pages
+│   ├── customer-header.php
+│   ├── customer-footer.php
+│   ├── admin-header.php
+│   ├── admin-sidebar.php
+│   ├── admin-footer.php
+│   ├── booking-progress.php
+│   ├── functions.php
+│   └── auth.php
+│
+├── actions/                   PHP that processes forms (BACKEND)
+│   ├── login.php
+│   ├── logout.php
+│   ├── create-booking.php
+│   ├── cancel-booking.php
+│   └── reschedule-booking.php
+│
+├── config/                    Database connection settings (BACKEND)
+│   ├── database.php
+│   └── database.example.php
+│
+├── database/                  (BACKEND)
+│   ├── tables.sql
+│   └── sample-data.sql
+│
+├── assets/                    Website styles, behaviors interactions and images
+│   ├── css/
+│   │   ├── base.css
+│   │   ├── components.css
+│   │   ├── customer-layout.css
+│   │   ├── admin-layout.css
+│   │   └── pages/
+│   ├── js/
+│   │   ├── main.js
+│   │   └── booking.js
+│   └── images/
+│
+|
+└── README.md
+
+
+
+
 Oct 26 start after exams. Oct 28 first shared navbar/sidebar/styles; Nov 1 final shared pieces and first connected example. Nov 8 first version ng lahat ng pages. Nov 15 final frontend, kasama desktop/tablet/mobile. Nov 16-22 integration/fixes; Nov 23 target working demo.
 
 Kapag may natapos na page, send agad. Wag na hintayin Nov 15 bago mag-connect. Coordinate muna bago baguhin shared files or form fields.
 
 Pa-update na lang dito sa GC kung anong page ginagawa niyo, kung ongoing or tapos na, at kung saan kayo kailangan ng help.
 
-# May tracker din ako na ginawa para makita natin kung sino assigned sa bawat page, deadlines, at progress. 
-# LINK: https://docs.google.com/spreadsheets/d/1jCIXsQ6JWZvwoRQs50MiRFAncfuO1r907EtGTgpBxzQ/edit?usp=sharing
+May tracker din ako na ginawa para makita natin kung sino assigned sa bawat page, deadlines, at progress.
+
+[Open the tracker](https://docs.google.com/spreadsheets/d/1jCIXsQ6JWZvwoRQs50MiRFAncfuO1r907EtGTgpBxzQ/edit?usp=sharing)
