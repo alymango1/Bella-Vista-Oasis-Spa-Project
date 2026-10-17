@@ -8,7 +8,7 @@ Guys, random draw na yung pages. Related pages ang pinagsama para mas madaling g
 - Gallery Page
 - Services and Rates Page
 - Terms and Conditions Page
-Shared: Customer navbar/footer, brand colors and base CSS.
+- Shared: Customer navbar/footer, brand colors and base CSS.
 
 # Lovely Joy Alejo:
 - Health Declaration Page
@@ -16,21 +16,21 @@ Shared: Customer navbar/footer, brand colors and base CSS.
 - Booking Summary and Checkout Page
 - Booking Confirmation Page
 - Manage Appointment Page
-Shared: Booking progress and booking interactions.
+- Shared: Booking progress and booking interactions.
 
 # Kenneth Tenorio:
 - Login Page
 - Dashboard Page
 - Appointment Schedule Calendar Page
 - Daily Reports Page
-Shared: Admin header/sidebar/footer and shared menu JavaScript.
+- Shared: Admin header/sidebar/footer and shared menu JavaScript.
 
 # Maureen Ginto:
 - Appointment Management Page
 - Therapist Assignment Page
 - Rooms and Services Page
 - Staff Accounts and Settings Page
-Shared: Shared buttons, inputs, tables and status styling.
+- Shared: Shared buttons, inputs, tables and status styling.
 
 Ako sa PHP/backend, database, authentication, booking rules and integration. 
 Frontend kayo: actual HTML/CSS, responsive layouts and needed JavaScript.
