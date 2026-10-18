@@ -18,18 +18,18 @@ Guys, random draw na yung pages. Related pages ang pinagsama para mas madaling g
 - Manage Appointment Page
 - Shared: Booking progress and booking interactions.
 
-# Kenneth Tenorio:
+# Kenneth Tenorio
 - Login Page
 - Dashboard Page
-- Appointment Schedule Calendar Page
 - Daily Reports Page
+- Staff Accounts and Settings Page
 - Shared: Admin header/sidebar/footer and shared menu JavaScript.
 
-# Maureen Ginto:
+# Maureen Ginto
 - Appointment Management Page
+- Appointment Schedule Calendar Page
 - Therapist Assignment Page
 - Rooms and Services Page
-- Staff Accounts and Settings Page
 - Shared: Shared buttons, inputs, tables and status styling.
 
 Ako sa PHP/backend, database, authentication, booking rules and integration. 
